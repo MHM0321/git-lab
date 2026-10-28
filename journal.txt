@@ -6,3 +6,4 @@ squash line 3
 a fix worth cherry-picking
 reflog demo 1
 reflog demo 2
+reflog demo 3
