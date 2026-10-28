@@ -1,2 +1,5 @@
 Line changed on main
 Line changed on conflict-demo
+squash line 1
+squash line 2
+squash line 3
