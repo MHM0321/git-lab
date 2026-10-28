@@ -7,3 +7,4 @@ a fix worth cherry-picking
 reflog demo 1
 reflog demo 2
 reflog demo 3
+edit from the second clone
