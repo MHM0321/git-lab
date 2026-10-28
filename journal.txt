@@ -4,3 +4,4 @@ squash line 1
 squash line 2
 squash line 3
 a fix worth cherry-picking
+reflog demo 1
